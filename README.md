@@ -1,1 +1,2 @@
-# Ws-devSuperior
+
+ExerciciosJavaScript do CursoEmVideo
